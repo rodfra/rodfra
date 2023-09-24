@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **rodfra/rodfra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hola 👋, soy Francis</h1>
-<h3 align="center">Un desarrollador apasionado de España</h3>
+<h3 align="center">Un desarrollador apasionado Español</h3>
 
 <h3 align="left">Conéctate conmigo:</ h3>
 <p align="left">
